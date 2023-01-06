@@ -1,4 +1,4 @@
-import solid
+import solid2 as solid
 import os
 import tempfile
 import platform

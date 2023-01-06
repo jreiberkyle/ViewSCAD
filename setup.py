@@ -50,6 +50,6 @@ setup(
         'install': CustomInstallCommand,
     },
     packages=find_packages(),
-    install_requires=['jupyter', 'jupyterlab', 'ipywidgets', 'pythreejs', 'solidpython'],
-    setup_requires=['jupyter', 'jupyterlab', 'ipywidgets', 'pythreejs', 'solidpython'],
+    install_requires=['jupyter', 'jupyterlab', 'ipywidgets', 'pythreejs', 'solidpython2'],
+    setup_requires=['jupyter', 'jupyterlab', 'ipywidgets', 'pythreejs', 'solidpython2'],
 )
